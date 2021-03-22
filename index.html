@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html lang = "en">
+	<head>
+		<title>Hi - Alex Paterson</title>
+		<link rel = "stylesheet" type = "text/css" href = "css/style.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P">
+		<script src = "js/menu.js"></script>
+		<script src = "js/rendercarousel.js"></script>
+		<meta name = "DevlogMeta" content = "false"> <!-- This is to tell the script to render all logs or just 1.-->
+		<script src = "js/renderdevlog.js"></script>
+		<meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+		<meta charset = "UTF-8">
+		<meta name = "description" content = "">
+		<meta name = "keywords" content = "Sheepocalypse: Sheep Arena,Space Suit Sally,Canalside">
+		<meta name = "author" content = "Alex Paterson">
+	</head>
+	<body>
+		<nav>
+			<b><a href = "index.html">Alex Paterson</a></b> <span class = "Menu"><a href = "javascript:ShowGameMenu ()"><span id = "Arrow">></span> Games</a> <a href = "projects.html">> Other Projects</a> <a href = "aboutme.html">> About Me</a></span>
+			<div id = "Dropdown">
+				<ul>
+					<li><a href = "sheeparena.html">> Sheepocalypse: Sheep Arena</a></li>
+					<li><a href = "spacesuitsally.html">> Space Suit Sally</a></li>
+					<li><a href = "canalside.html" class = "HelpThisReallyNeedsMargins">> Canalside</a></li>
+					<!--<li><a href = "#">> Currently Unamed Narrowboat Game</a></li>-->
+				</ul>
+			</div>
+		</nav>
+		<main>
+			<h1>Hi</h1>
+			<article>
+				<p>Welcome to <a href = "https://alexpaterson.github.io">alexpaterson.github.io</a>, the home site for Alex Paterson's games!</p>
+			</article>
+			<br>
+			<div class = "Carousel">
+				<a href = "#" id = "CarouselLink"><img src = "img/blank.png" alt = "Image Carousel" id = "CarouselImage"></a>
+				<p id = "CarouselCaption">Caption</p>
+				<button class = "CarouselButtonLeft" onclick = "GoLeft ()">&lt;</button><button class = "CarouselButtonRight" onclick = "GoRight ()">></button>
+			</div>
+			<article>
+				<br>
+				<br>
+				<br>
+				<div class = "Devlog">
+					<div class = "DevlogContainer" id = "DevlogContainer">
+						<h2>Latest Canalside Development News</h2>
+					</div>
+				</div>
+			</article>
+		</main>
+		<footer>
+			(C) Alex Paterson 2021
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,5 @@
+[
+	{"title": "I decided on a name...", "date": "18/03/2021", "body": "After being called 'Boat Adventure' for 3 months, I finally picked a name for this game - Canalside. It was suggested by awful_games and Morphray of Reddit.", "useImage": "true", "imagePath": "img/devlog/devlog2.png", "caption": "The Main Menu (as of 18/03/2021)."},
+	{"title": "Finally Achieved Locks!", "date": "15/03/2021", "body": "Locks were a pain to code and took the best part of 2 months, but I got there in the end. Kind of. Locks work in one direction, but not the other, but I should be able to fix that soon. For now though, I'm going to take that as a success. Hopefully no other features will be this confusing.", "useImage": "true", "imagePath": "img/devlog/devlog1.png", "caption": "The boat going through a lock."}
+
+]

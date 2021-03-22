@@ -1,0 +1,11 @@
+[
+	{"path": "img/cutcontent/old.jpg", "caption": "The oldest development screenshot I could find."},
+	{"path": "img/cutcontent/m16.jpg", "caption": "An M16."},
+	{"path": "img/cutcontent/gibs.png", "caption": "The old artsyle of Sheepocalypse."},
+	{"path": "img/cutcontent/lightning.png", "caption": "The cut Lightning Sheep."},
+	{"path": "img/cutcontent/intro.png", "caption": "The start of the intro scene from the Sheepocalypse campaign."},
+	{"path": "img/cutcontent/mountains.png", "caption": "A secreenshot of the first level of the Sheepocalypse campaign in the Unity Editor. It hadn't been quite finished by this point."},
+	{"path": "img/cutcontent/sequelmenu.png", "caption": "The main menu in the unfinished Sheepocalypse sequel."},
+	{"path": "img/cutcontent/skorpion.png", "caption": "A new weapon in the unfinished Sheepocalypse sequel."},
+	{"path": "img/cutcontent/kaboom.png", "caption": "A dead player and explosion from the unfinished Sheepocalypse sequel."}
+]
